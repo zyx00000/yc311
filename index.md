@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zyx00000/yc311/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zyx00000/yc311/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+	<title>送给的yc一个网页</title>
+</head>
+<body>
+   <div style="background:url('QQ图片20181107170959.jpg');height:540px;width:520px;">二傻子,从我们相遇相知，我从未想过与你有交集，甚至想见，我也没有想过会有未来，但是可能是命运让我们走在一起，我不喜欢命运安排，但我喜欢命运的这次安排，希望我们可以走到最后。</div>
+   <div style="background:url('生气.jpg');height:1000px;width:960px;font-size:40px;color:orange;">从我们在一起以来，从来都只有我在发脾气，面对我的无理取闹，你没有过怨言，没有过对我发脾气，一直宠着我，好想我们可以一直这样，我生气了，只要你哄一哄我，我还是很听话的，我可是你最乖的小可爱！</div>
+   <div style="background:url('非礼.jpg');height:2200px;width:1600px;font-size:50px;color:skyblue;">想和你笑，想和你闹，想和你永远开开心心的，我感觉这很幸福，我玩，你陪我玩，我闹，你陪我闹，我不开心，你会哄我，牛粪，你会陪着鲜花吗？</div>
+   <div style="background:url('嘿.jpg');height:2500px;width:1900px;font-size:80px;color:yellow;">普罗旺斯的唯美浪漫!薰衣草那紫色的神秘让我们的爱情在这个特殊的日子里长长久久!只要转，就会与心爱的人幸福快乐……</div>
+   
+</body>
+</body>
+</html>
